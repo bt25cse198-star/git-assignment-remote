@@ -1,1 +1,1 @@
-Mode: classroom
+Mode: hybrid
