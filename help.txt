@@ -1,0 +1,5 @@
+MENU SCRIPT HELP
+1. Choose option 1 to greet a user.
+2. Choose option 2 to add two integers.
+3. Choose option 3 to check even or odd.
+4. Choose option 4 to exit.
